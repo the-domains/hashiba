@@ -1,6 +1,6 @@
 name: Hashiba
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75315
 typography_spectrum: 0.035288762766867876
 title: Hashiba
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6b7375'
-    - '#e5d3c9'
-    - '#493830'
-    - '#050409'
-    - '#e03b9f'
-  brandStrength: 0.7777865964453667
+    - '#d3d3d3'
+    - '#a3a3a3'
+    - '#7f7f7f'
+    - '#525252'
+    - '#333333'
+  brandStrength: 0.875
   lightness: 0.4980762319173664
   saturation: 0.30624333629384637
-  rhythmicContrast: 0.8547712913714349
+  rhythmicContrast: 0.75
 purpose: []
